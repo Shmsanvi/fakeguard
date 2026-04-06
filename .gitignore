@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+.env
+models/
+data/
+*.pt
+*.pth
+.DS_Store
+node_modules/
+frontend/dist/
